@@ -1,0 +1,10 @@
+rchd cbr 2k w
+wec
+rres
+wdcx  
+errv
+resc
+rev
+re
+revcr
+c
